@@ -17,6 +17,7 @@
     "bear theme recolored",
     "bear recolored"
   ],
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
