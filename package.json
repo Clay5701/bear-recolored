@@ -1,0 +1,35 @@
+{
+  "name": "bear-recolored",
+  "displayName": "Bear Recolored",
+  "description": "A modified version of the popular Bear theme with new syntax highlighting.",
+  "version": "1.0.0",
+  "publisher": "Clay5701",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/Clay5701/bear-recolored"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Clay5701",
+    "bear",
+    "bear theme",
+    "bear theme recolored",
+    "bear recolored"
+  ],
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bear Recolored",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bear-recolored-color-theme.json"
+      }
+    ]
+  }
+}
