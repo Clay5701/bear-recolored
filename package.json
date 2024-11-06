@@ -2,11 +2,11 @@
   "name": "bear-recolored",
   "displayName": "Bear Recolored",
   "description": "A modified version of the popular Bear theme with new syntax highlighting.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "Clay5701",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/Clay5701/bear-recolored"
+    "url": "https://github.com/Clay5701/bear-recolored"
   },
   "keywords": [
     "theme",
