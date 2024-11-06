@@ -235,7 +235,7 @@
 	  {//
 		"scope": "markup.bold",
 		"settings": {
-		  "foreground": "#E03C8A",
+		  "foreground": "#76C3E5",
 		  "fontStyle": "bold"
 		}
 	  },
@@ -249,6 +249,7 @@
 	  {//
 		"scope": "markup.italic",
 		"settings": {
+		  "foreground": "#76C3E5",
 		  "fontStyle": "italic"
 		}
 	  },
